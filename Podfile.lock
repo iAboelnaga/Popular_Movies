@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.8.0)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - BTNavigationDropdownMenu (0.5)
+  - Cosmos (20.0.1)
+  - Kingfisher (5.8.3):
+    - Kingfisher/Core (= 5.8.3)
+  - Kingfisher/Core (5.8.3)
+  - ObjectMapper (3.5.1)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (= 4.8.0)
+  - AlamofireObjectMapper (= 5.2.0)
+  - BTNavigationDropdownMenu
+  - Cosmos
+  - Kingfisher
+  - ObjectMapper
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - BTNavigationDropdownMenu
+    - Cosmos
+    - Kingfisher
+    - ObjectMapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  BTNavigationDropdownMenu: ba3a26fdb6a56c4721c31df8a0875106c259663a
+  Cosmos: b47fddf2102bb48580cd3025d9ce0a5c658a65da
+  Kingfisher: b7e4cb65ff24c264bd2a1284b75b974d907afd94
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 6f73d9d67cd180d0ca8951120931b6a6283c7b90
+
+COCOAPODS: 1.8.0
